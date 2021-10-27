@@ -1,7 +1,7 @@
 ## Oi eu sou a Wesley Sampaio, academico no curso de Sistemas de Informação!
 
-<div align="center">
-  <a href="https://github.com/Wesley-Sampaio"></a>
+<div >
+  <a href="https://github.com/Wesley-Sampaio">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Wesley-Sampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Sampaio&layout=compact&langs_count=7&theme=dracula"/>
 <div> 
