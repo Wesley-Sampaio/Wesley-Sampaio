@@ -16,5 +16,9 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
+</div>
+
+<div>
 ![Snake animation](https://github.com/Wesley-Sampaio/Wesley-Sampaio/blob/output/github-contribution-grid-snake.svg)
 </div>
+
