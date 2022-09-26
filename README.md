@@ -14,8 +14,15 @@
 
 <br>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
-</div>
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=Wesley-Sampaio&show_icons=true&theme=react">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Sampaio&layout=compact&theme=react" />
+  </a>
+</p>
 
+  ##
 
+![Snake animation](https://github.com/Wesley-Sampaio/Wesley-Sampaio/blob/output/github-contribution-grid-snake.svg)
