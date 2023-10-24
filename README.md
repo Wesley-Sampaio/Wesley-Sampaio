@@ -24,5 +24,3 @@
 </p>
 
   ##
-
-![Snake animation](https://github.com/Wesley-Sampaio/Wesley-Sampaio/blob/output/github-contribution-grid-snake.svg)
