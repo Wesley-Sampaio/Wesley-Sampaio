@@ -14,11 +14,5 @@
 
 <br>
 
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=Wesley-Sampaio&show_icons=true&theme=react">
-</a>
-
-</p>
 
   ##
