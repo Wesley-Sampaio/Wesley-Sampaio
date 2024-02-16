@@ -1,7 +1,6 @@
 <h1 align="left">Hi , I'm Wesley</h1>
-<h3 align="left">Future front-end developer</h3>
 
-- 📚 I’m currently undergraduate **Information Systems**
+- 📚  I’m currently studying a bachelor's degree in **Information Systems**
 
 - 📫 How to reach me **wesley.sampaio159834@gmail.com**
 
