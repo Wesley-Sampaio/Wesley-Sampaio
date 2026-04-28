@@ -1,6 +1,6 @@
 <h1 align="left">Hi , I'm Wesley</h1>
 
-- 📚  I’m currently studying a bachelor's degree in **Information Systems**
+- 📚  bachelor in **Information Systems**
 
 - 📫 How to reach me **wesley.sampaio159834@gmail.com**
 
